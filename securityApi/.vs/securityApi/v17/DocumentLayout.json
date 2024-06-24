@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\securityApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0A1808-BD9C-4E47-A633-2330F61DD121}|Entity\\Entity.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\securityapi\\entity\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0A1808-BD9C-4E47-A633-2330F61DD121}|Entity\\Entity.csproj|solutionrelative:entity\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E0BD3-1A5E-4AC4-9C4B-FBD4BD40341B}|Diagram\\Diagram.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\securityapi\\diagram\\dbdiagram.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{899E0BD3-1A5E-4AC4-9C4B-FBD4BD40341B}|Diagram\\Diagram.csproj|solutionrelative:diagram\\dbdiagram.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0A1808-BD9C-4E47-A633-2330F61DD121}|Entity\\Entity.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\securityapi\\entity\\content\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0A1808-BD9C-4E47-A633-2330F61DD121}|Entity\\Entity.csproj|solutionrelative:entity\\content\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0A1808-BD9C-4E47-A633-2330F61DD121}|Entity\\Entity.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\securityapi\\entity\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0A1808-BD9C-4E47-A633-2330F61DD121}|Entity\\Entity.csproj|solutionrelative:entity\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\securityApi\\Entity\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Categoria.cs",
+              "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\securityApi\\Entity\\Models\\Categoria.cs",
+              "RelativeToolTip": "Entity\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:38:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\securityApi\\Entity\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Producto.cs",
+              "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\securityApi\\Entity\\Models\\Producto.cs",
+              "RelativeToolTip": "Entity\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:38:29.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\securityApi\\Entity\\Content\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Content\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\securityApi\\Entity\\Content\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Content\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAkwE8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:02:37.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbDiagram.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\securityApi\\Diagram\\dbDiagram.edmx",
+              "RelativeDocumentMoniker": "Diagram\\dbDiagram.edmx",
+              "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\securityApi\\Diagram\\dbDiagram.edmx [Diagram1]",
+              "RelativeToolTip": "Diagram\\dbDiagram.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-24T21:27:20.254Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
