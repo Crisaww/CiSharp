@@ -1,0 +1,7 @@
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejerciciosPoo\bin\Debug\ejerciciosPoo.exe.config
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejerciciosPoo\bin\Debug\ejerciciosPoo.exe
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejerciciosPoo\bin\Debug\ejerciciosPoo.pdb
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.csproj.AssemblyReference.cache
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.csproj.CoreCompileInputs.cache
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.exe
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.pdb
