@@ -17,5 +17,7 @@ namespace ejerciciosPoo.herencia_Abstraccion
         {
             Console.WriteLine("El animal está durmiendo.");
         }
+
+        internal abstract void Hablar();
     }
 }

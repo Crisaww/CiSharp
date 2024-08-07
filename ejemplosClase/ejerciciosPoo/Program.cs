@@ -10,7 +10,7 @@ namespace ejerciciosPoo
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             //EJEMPLO CLASE *************************
@@ -41,6 +41,21 @@ namespace ejerciciosPoo
             // Usar el método no abstracto
             miPerro.Dormir();       // Output: El animal está durmiendo.
             miGato.Dormir();        // Output: El animal está durmiendo.
+
+
+
+            //POLIMORFISMO Y ENCAPSULAMIENTO ***************
+            List<Animal> animales = new List<Animal>
+        {
+            new Perro("Fido"),
+            new Gato("Michi")
+        };
+
+            foreach (Animal animal in animales)
+            {
+                animal.Hablar();
+            }
+
 
 
 

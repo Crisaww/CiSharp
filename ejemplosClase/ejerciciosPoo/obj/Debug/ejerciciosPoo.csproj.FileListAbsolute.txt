@@ -5,3 +5,10 @@ D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejercici
 D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.csproj.CoreCompileInputs.cache
 D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.exe
 D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.pdb
+C:\Users\USER\Documents\ADSO-2024\CiSharp\ejemplosClase\ejerciciosPoo\bin\Debug\ejerciciosPoo.exe.config
+C:\Users\USER\Documents\ADSO-2024\CiSharp\ejemplosClase\ejerciciosPoo\bin\Debug\ejerciciosPoo.exe
+C:\Users\USER\Documents\ADSO-2024\CiSharp\ejemplosClase\ejerciciosPoo\bin\Debug\ejerciciosPoo.pdb
+C:\Users\USER\Documents\ADSO-2024\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\ADSO-2024\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ADSO-2024\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.exe
+C:\Users\USER\Documents\ADSO-2024\CiSharp\ejemplosClase\ejerciciosPoo\obj\Debug\ejerciciosPoo.pdb

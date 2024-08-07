@@ -43,21 +43,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="metodos_y_funciones\Animal.cs" />
+    <Compile Include="metodos_y_funciones\Operaciones.cs" />
     <Compile Include="clases_Interfaces\ISuperheroA.cs" />
     <Compile Include="clases_Interfaces\Superhero.cs" />
     <Compile Include="clases_Interfaces\SuperheroA.cs" />
     <Compile Include="herencia_Abstraccion\Animal.cs" />
     <Compile Include="herencia_Abstraccion\Gato.cs" />
     <Compile Include="herencia_Abstraccion\Perro.cs" />
+    <Compile Include="polimorfismo_y_encapsulamiento\Animal.cs" />
+    <Compile Include="polimorfismo_y_encapsulamiento\Gato.cs" />
+    <Compile Include="polimorfismo_y_encapsulamiento\Perro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="atributos_Metodos\" />
-    <Folder Include="polimorfismo_Encapsulamiento\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
