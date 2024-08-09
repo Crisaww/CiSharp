@@ -22,6 +22,7 @@ namespace ejerciciosPoo.clases_Interfaces
             PrincipalEnemy = principalEnemy;
         }
 
+        //Método que muestra los atributos del superhéroe
         public void ShowInformation()
         {
             

@@ -1,0 +1,7 @@
+C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\ejercicioExamen\bin\Debug\ejercicioExamen.exe.config
+C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\ejercicioExamen\bin\Debug\ejercicioExamen.exe
+C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\ejercicioExamen\bin\Debug\ejercicioExamen.pdb
+C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.exe
+C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.pdb

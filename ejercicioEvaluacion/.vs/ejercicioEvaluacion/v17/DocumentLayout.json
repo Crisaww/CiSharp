@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|c:\\users\\sena\\documents\\cristiannarvaez\\software\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\segregacioninterfaz\\iescaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\segregacioninterfaz\\iescaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|c:\\users\\sena\\documents\\cristiannarvaez\\software\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\segregacioninterfaz\\impresorasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\segregacioninterfaz\\impresorasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|c:\\users\\sena\\documents\\cristiannarvaez\\software\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\segregacioninterfaz\\iimpresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\segregacioninterfaz\\iimpresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|c:\\users\\sena\\documents\\cristiannarvaez\\software\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\abiertocerrado\\saludodetarde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\abiertocerrado\\saludodetarde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|c:\\users\\sena\\documents\\cristiannarvaez\\software\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\abiertocerrado\\saludodema\u00F1ana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\abiertocerrado\\saludodema\u00F1ana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|c:\\users\\sena\\documents\\cristiannarvaez\\software\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\abiertocerrado\\saludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\abiertocerrado\\saludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|c:\\users\\sena\\documents\\cristiannarvaez\\software\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\responsabilidadunica\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\responsabilidadunica\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|c:\\users\\sena\\documents\\cristiannarvaez\\software\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\liskov\\pinguino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\liskov\\pinguino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|c:\\users\\sena\\documents\\cristiannarvaez\\software\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\liskov\\gorrion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\liskov\\gorrion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|c:\\users\\sena\\documents\\cristiannarvaez\\software\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\liskov\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\liskov\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImpresoraSimple.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\ImpresoraSimple.cs",
+              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\ImpresoraSimple.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\ImpresoraSimple.cs",
+              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\ImpresoraSimple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:36:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEscaner.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\IEscaner.cs",
+              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\IEscaner.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\IEscaner.cs",
+              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\IEscaner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:36:13.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IImpresora.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\IImpresora.cs",
+              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\IImpresora.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\IImpresora.cs",
+              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\SegregacionInterfaz\\IImpresora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:35:52.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pinguino.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\Liskov\\Pinguino.cs",
+              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\Liskov\\Pinguino.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\Liskov\\Pinguino.cs",
+              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\Liskov\\Pinguino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:34:26.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gorrion.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\Liskov\\Gorrion.cs",
+              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\Liskov\\Gorrion.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\Liskov\\Gorrion.cs",
+              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\Liskov\\Gorrion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:34:02.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ave.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\Liskov\\Ave.cs",
+              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\Liskov\\Ave.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\Liskov\\Ave.cs",
+              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\Liskov\\Ave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:33:26.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaludoDeTarde.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeTarde.cs",
+              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeTarde.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeTarde.cs",
+              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeTarde.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:32:24.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaludoDeMa\u00F1ana.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeMa\u00F1ana.cs",
+              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeMa\u00F1ana.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeMa\u00F1ana.cs",
+              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeMa\u00F1ana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:31:55.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Saludo.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\Saludo.cs",
+              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\Saludo.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\Saludo.cs",
+              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\Saludo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:31:38.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\ResponsabilidadUnica\\Usuario.cs",
+              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\ResponsabilidadUnica\\Usuario.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\cristianNarvaez\\Software\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\ResponsabilidadUnica\\Usuario.cs",
+              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\ResponsabilidadUnica\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:31:19.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
