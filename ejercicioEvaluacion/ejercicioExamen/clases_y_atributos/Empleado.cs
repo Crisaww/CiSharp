@@ -26,16 +26,6 @@ namespace ejercicioExamen.clases_y_atributos
         }
 
 
-        //Metodo para que empleado ingrese sus datos
-        public void IngresarDatos()
-        {
-            Console.Write("Ingrese el salario: ");
-            Salario = int.Parse(Console.ReadLine());
-
-            Console.Write("Ingrese los días trabajados: ");
-            DiasT = int.Parse(Console.ReadLine());
-        }
-
 
         // Implementación del método CalcularSalario de la interfaz ICalculable
         public decimal CalcularSalario()
