@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 namespace ejercicioExamen
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            Persona persona = new Empleado("1", "Cristi",18, "cqlle", 100000);
-            persona.ShowInformation();  
+            //Datos del empleado
+            Empleado empleado = new Empleado(1300000, 23);
+            empleado.ShowInformation();
         }
     }
 }

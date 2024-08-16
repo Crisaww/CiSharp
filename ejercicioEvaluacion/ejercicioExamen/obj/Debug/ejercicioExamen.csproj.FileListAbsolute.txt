@@ -5,3 +5,10 @@ C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\eje
 C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.csproj.CoreCompileInputs.cache
 C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.exe
 C:\Users\SENA\Documents\cristianNarvaez\Software\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.pdb
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejercicioEvaluacion\ejercicioExamen\bin\Debug\ejercicioExamen.exe.config
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejercicioEvaluacion\ejercicioExamen\bin\Debug\ejercicioExamen.exe
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejercicioEvaluacion\ejercicioExamen\bin\Debug\ejercicioExamen.pdb
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.csproj.AssemblyReference.cache
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.csproj.CoreCompileInputs.cache
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.exe
+D:\SENA\Documents\CristianNarvaez\Software\CSharp\CiSharp\ejercicioEvaluacion\ejercicioExamen\obj\Debug\ejercicioExamen.pdb
