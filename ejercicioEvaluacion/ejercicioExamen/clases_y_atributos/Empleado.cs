@@ -8,7 +8,7 @@ namespace ejercicioExamen.clases_y_atributos
 {
     public class Empleado : Persona, ICalculable
     {
-        public int Salario { get; set; }
+        public double Salario { get; set; }
         public int DiasT { get; set; }
 
 
@@ -19,7 +19,7 @@ namespace ejercicioExamen.clases_y_atributos
         }
 
         //Constructor con parametros
-        public Empleado(int salario, int diasT)
+        public Empleado(double salario, int diasT)
         {
             Salario = salario;
             DiasT = diasT;
@@ -28,10 +28,10 @@ namespace ejercicioExamen.clases_y_atributos
 
 
         // Implementación del método CalcularSalario de la interfaz ICalculable
-        public decimal CalcularSalario()
+        public double CalcularSalario()
         {
-            decimal valorDia = Salario / 31;
-            decimal totalPagar = valorDia * DiasT;
+            double valorDia = Salario / 31;
+            double totalPagar = valorDia * DiasT;
 
             return totalPagar;
         }
