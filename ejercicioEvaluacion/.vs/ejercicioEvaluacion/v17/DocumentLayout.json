@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\abiertocerrado\\saludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\abiertocerrado\\saludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\abiertocerrado\\saludodema\u00F1ana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\abiertocerrado\\saludodema\u00F1ana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\principiossolid\\abiertocerrado\\saludodetarde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\principiossolid\\abiertocerrado\\saludodetarde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\clases_y_atributos\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\clases_y_atributos\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\clases_y_atributos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioexamen\\clases_y_atributos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\clases_y_atributos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\cisharp\\ejercicioevaluacion\\ejercicioexamen\\clases_y_atributos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\clases_y_atributos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioexamen\\clases_y_atributos\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C390F2-6785-47C9-A31E-0E3B38448FFA}|ejercicioExamen\\ejercicioExamen.csproj|solutionrelative:ejercicioexamen\\clases_y_atributos\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,37 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Empleado.cs",
               "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\clases_y_atributos\\Empleado.cs",
               "RelativeDocumentMoniker": "ejercicioExamen\\clases_y_atributos\\Empleado.cs",
               "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\clases_y_atributos\\Empleado.cs",
               "RelativeToolTip": "ejercicioExamen\\clases_y_atributos\\Empleado.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA9wB8AAAAJAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwDMAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T18:52:49.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Persona.cs",
               "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\clases_y_atributos\\Persona.cs",
               "RelativeDocumentMoniker": "ejercicioExamen\\clases_y_atributos\\Persona.cs",
               "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\clases_y_atributos\\Persona.cs",
               "RelativeToolTip": "ejercicioExamen\\clases_y_atributos\\Persona.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA9wCEAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T18:51:55.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ICalculable.cs",
               "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\clases_y_atributos\\ICalculable.cs",
               "RelativeDocumentMoniker": "ejercicioExamen\\clases_y_atributos\\ICalculable.cs",
@@ -81,52 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SaludoDeTarde.cs",
-              "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeTarde.cs",
-              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeTarde.cs",
-              "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeTarde.cs",
-              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeTarde.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T18:50:01.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SaludoDeMa\u00F1ana.cs",
-              "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeMa\u00F1ana.cs",
-              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeMa\u00F1ana.cs",
-              "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeMa\u00F1ana.cs",
-              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\SaludoDeMa\u00F1ana.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T18:49:57.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Saludo.cs",
-              "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\Saludo.cs",
-              "RelativeDocumentMoniker": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\Saludo.cs",
-              "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\principiosSolid\\AbiertoCerrado\\Saludo.cs",
-              "RelativeToolTip": "ejercicioExamen\\principiosSolid\\AbiertoCerrado\\Saludo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T18:46:32.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\Program.cs",
               "RelativeDocumentMoniker": "ejercicioExamen\\Program.cs",
               "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\CiSharp\\ejercicioEvaluacion\\ejercicioExamen\\Program.cs",
               "RelativeToolTip": "ejercicioExamen\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAhwBMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB0AAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T18:28:24.293Z",
               "EditorCaption": ""

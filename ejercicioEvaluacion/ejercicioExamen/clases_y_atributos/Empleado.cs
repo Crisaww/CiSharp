@@ -11,12 +11,31 @@ namespace ejercicioExamen.clases_y_atributos
         public int Salario { get; set; }
         public int DiasT { get; set; }
 
-        //Constructor
+
+        // Constructor vacío para que los datos puedan ser ingresados por el usuario
+        public Empleado()
+        {
+
+        }
+
+        //Constructor con parametros
         public Empleado(int salario, int diasT)
         {
             Salario = salario;
             DiasT = diasT;
         }
+
+
+        //Metodo para que empleado ingrese sus datos
+        public void IngresarDatos()
+        {
+            Console.Write("Ingrese el salario: ");
+            Salario = int.Parse(Console.ReadLine());
+
+            Console.Write("Ingrese los días trabajados: ");
+            DiasT = int.Parse(Console.ReadLine());
+        }
+
 
         // Implementación del método CalcularSalario de la interfaz ICalculable
         public decimal CalcularSalario()
@@ -31,8 +50,9 @@ namespace ejercicioExamen.clases_y_atributos
         public async Task LeerSalarioAsync()
         {
             Console.WriteLine("Iniciando la lectura asincrónica del salario...");
-            await Task.Delay(3000); // Simula una espera de 2 segundos
+            await Task.Delay(5000); // Simula una espera de 5 segundos
             Console.WriteLine("Lectura asincrónica del salario completada.");
+            Console.WriteLine($"Total a pagar: {CalcularSalario()}");
         }
 
 
@@ -42,7 +62,7 @@ namespace ejercicioExamen.clases_y_atributos
             base.ShowInformation(); // Llama al método de la clase base para mostrar info común
             Console.WriteLine($"Salario base: {Salario}");
             Console.WriteLine($"Dias trabajados: {DiasT}");
-            Console.WriteLine($"Total a pagar: {CalcularSalario()}");
+            
         }
     }
 }
