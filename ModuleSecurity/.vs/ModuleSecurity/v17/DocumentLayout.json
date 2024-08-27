@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\ModuleSecurityRepository\\ModuleSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF962152-DA32-43ED-A050-69E3652C71ED}|Business\\Business.csproj|d:\\sena\\documents\\cristiannarvaez\\software\\csharp\\modulesecurityrepository\\modulesecurity\\business\\implements\\viewbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF962152-DA32-43ED-A050-69E3652C71ED}|Business\\Business.csproj|solutionrelative:business\\implements\\viewbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewBusiness.cs",
+              "DocumentMoniker": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\ModuleSecurityRepository\\ModuleSecurity\\Business\\Implements\\ViewBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implements\\ViewBusiness.cs",
+              "ToolTip": "D:\\SENA\\Documents\\CristianNarvaez\\Software\\CSharp\\ModuleSecurityRepository\\ModuleSecurity\\Business\\Implements\\ViewBusiness.cs",
+              "RelativeToolTip": "Business\\Implements\\ViewBusiness.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:46:45.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
